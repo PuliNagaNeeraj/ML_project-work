@@ -77,7 +77,7 @@ test_df_scaled = scaler.transform(test_df)
 print(model.predict(test_df_scaled))
 ```
 # OUTPUT :
-![image](https://github.com/23004426/ML_Workshop/assets/144979327/4aebdf5a-5b33-4f26-b6fe-eb5caabb14cc)
+![image](https://github.com/PuliNagaNeeraj/ML_project-work/assets/138849173/28791dad-88f7-42b0-88c5-bd5959c3a4a5)
 
 
 # RESULT :
